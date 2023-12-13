@@ -1,0 +1,605 @@
+,post_info,date_of_post,like_count
+0,"
+
+
+ As the year draws to an end, one can only marvel at the progress made by researchers and companies in the field of AI. The applications of AI and ChatGPT are a part of household conversations now. Another field that made tremendous progress is the ability to harness powerful large language models and build robust applications.When one thinks about integrating LLMs, Langchain immediately comes to mind. The framework has taken the open-source community by storm and makes creating context-aware applications powered by LLMs easy  🚀As Langchain’s landing page mentions, Langchain allows the creation of applications that are 1) Context-Aware (connect to data sources, contextual content, prompts, etc.) and 2) Can Reason (use LLMs on the contextual data). Numerous Langchain templates, examples, and prototypes have been built to make this process as user-friendly as possible making this an essential skill for AI professionalsTo learn Langchain 101, tune in to this upcoming webinar which covers the basics of Langchain, best practices for integrating Langchain and leveraging it for multi-modal data integration.A must-attend for anyone looking to build their first LLM application or seasoned professionals looking to learn the latest developments in the open-source community/ langchain.Date: 11th December 2023 Time: 10:00 am PT (11:30 pm IST)Registration 🔗: https://lnkd.in/gtEFn5vhCode-sharing and session recording are to be shared upon registering! Webinar Live in 24 hours!hashtag#ai hashtag#langchain hashtag#llm hashtag#openai hashtag#chatgpt
+
+",1yr •   ,76
+1,"
+
+
+ While at Google, until recently, there was a lot of excitement about Gemini capabilities that were happening internally.  Well, the LLM/GenAI battle between companies is never-ending, but I see a lot of people are very excited about Google's new release of Gemini. As an AI enthusiast, I strongly believe that keeping up with the technology while being tool-agnostic is important. I am curious to try out Gemini's capabilities as well, hence I wanted to share an upcoming webinar I came across that provides a first look at some impressive new AI capabilities.On December 13th, Google will be releasing the new Gemini family of large language models to developers. These models promise more efficient, customizable, and powerful natural language generation.In this webinar, you'll get:📌 A sneak preview of Gemini's capabilities before the official launch📌 Tips on leveraging Vertex AI to get the most out of large language models📌 Insights into optimizing performance and cost with your AI apps📌 A live demo of integrating Gemini models into your applicationsCheck it out here: https://lnkd.in/gznW-Wfqhashtag#ai 
+
+",,31
+2,"
+
+
+ Recently we celebrated One Year of ChatGPT the accelerated speed at which LLMs have started being integrated into applications and startups being formed that are solely using OpenAI tools is incredible. While several AI professionals have successfully upskilled themselves to build these applications, there is still a significant skill gap among other professionals. Things that people need to learn are:📌 Understand the fundamentals and capabilities of ChatGPT LLM📌 Best practices and standards for integrating LLM into your applications📌 Best practices for developing and testing LLM apps📌 Strategies for scalable and efficient deploymentIf you are an AI professional looking for this, there is a perfect 60-minute webinar that covers this. Tune in to the webinar for insightful guidelines, a live demo, and a code-sharing segment, offering hands-on experience in deploying these sophisticated technologies.PS: Register to get a recording and code from the webinar.Link: bit.ly/launch-chatgpt-appshashtag#ai hashtag#llm hashtag#chatgpt
+
+",,51
+3,"
+
+
+ One of the biggest challenges in adopting generative AI is the integration of LLMs in extremely secure, private environments.How do you solve data residency and privacy concerns while still maintaining the powerful learning capabilities of LLMs within your organization?Learn how to integrate Langchain with popular cloud-based foundational model APIs to build an LLMs application that is secure, contextual and can be easily integrated in your organization!If you are a data scientist or application developer dabbling in generative ai tech, you don’t want to miss this exciting webinar happening soon! The focus of this webinar is all about privacy and security robustness 🔒Date: 4th December 2023Time: 10:00 am PT (11:30pm IST)Register Here: bit.ly/private-llm-app
+
+",,80
+4,"
+
+
+ Announcement Time 🎉🔈I am overwhelmed with joy as I share the news of my first book - What's your worth?The last two years, since I started working on this book, I must say has been a roller coaster. Juggling a thousand other commitments, I thought I would never complete it, but here we are 😄This book draws from my personal experiences, challenges, and insights which has helped me build a strong personal brand. If there was one thing, that I can pin point that helped me in my journey of personal branding, it was being ""strategic""- and that is the exact recipe I am sharing with you all.Within the pages, I have provided a practical roadmap for realizing your true potential and discovering your personal brand. I have carefully chosen the words here. I say ""discovering"" because I assume you already possess the foundational ingredients it takes to build a personal brand, all it takes it is to out together a recipe, a structure to unleash it's potential!In the book, I challenge readers to assess their self-worth, dare to dream bigger, and emphasize that it's never too late to transform your life.I can't wait to open the pre-orders (which is going to be very very soon and limited). So make sure to leave your name and email, inorder to get notified when the preorder starts. I have also added an excerpt from the book for your reading pleasure!This book is my heart and soul gift to anyone seeking to unleash their potential.Happy reading 📖Check out the book at: whatsyourworthbook.com
+
+",,"800
+
+                        Daliana Liu and 799 others"
+5,"
+
+
+ hashtag#IntelAmbassador The pace of AI innovation continues to accelerate, and during my time at Intel Innovation 2023, I attended Vasudev Lal's session where he spoke about BridgeTower, an open-source vision-language model jointly developed by Intel Corporation and Microsoft Vision-Language (VL) models have been making waves with their impressive performance across a range of tasks. Usually, these models use uni-modal encoders to extract information from visual and textual data and integrate these representations for cross-modal understanding. However, uni-modal encoders can struggle to capture intricate relationships, hampering their performance in complex tasks. There are numerous scenarios where robust vision-language models like BridgeTower will be game-changing. Use cases like image captioning where the elements of the image are well translated to an appropriate and detailed set of keywords. Also, in the healthcare industry, analyzing patient records along with image data like X-ray, MRI or cardiography can be a huge value add. BridgeTower introduces multiple ""bridge layers"" that connect the top layers of uni-modal encoders with each layer of the cross-modal encoder. This innovative approach facilitates a dynamic cross-modal alignment and fusion between visual and textual representations at various semantic levels within the cross-modal encoder. BridgeTower excels with its state-of-the-art performance on just 4M pre-trained images. Achieving 78.73% accuracy on the VQAv2 test-std set, outperforming the prior state-of-the-art model by 1.09%, and with minimal extra resources. When scaled, it reaches an impressive 81.15% accuracy, surpassing models trained on larger datasets. In another article, Regis Pierrard and Anahita Bhiwandiwalla found that Habana Gaudi2 with Optimum Habana is 1.4x faster than H100 and 2.5x faster than A100 80GB with Transformers, a significant advancement for large-scale model training and edge ML deployments. Kudos to Intel and Microsoft for leading the way and providing a robust open-source foundation to build upon. I'm excited to see what the future holds as companies and developers come together to drive AI progress. What would the real-world impact of this tech progress look like in your field?Check out Allie K. Miller and Pascal BORNET for their hashtag#StartsWithIntel stories!hashtag#IntelAmbassador hashtag#AI
+
+",,"54
+
+                        Daliana Liu and 53 others"
+6,"
+
+
+ As a data scientist, I'm always looking to expand my knowledge of the latest data architectures and analytics approaches. I recently came across an upcoming webinar that looks quite compelling: ""Building a Semantic Lakehouse for Capital Markets.""This webinar piqued my interest because it focuses on simplifying large-scale data access and enabling analytics democratization through a combination of lakehouse architecture and semantic layer platforms. Having worked with complex financial data sets before, I'm curious to hear how this type of modern data stack could provide easy yet governed data access, support discovery, and drive actionable insights.The promise of leveraging the power of a lakehouse while still providing access through familiar interfaces is enticing. Analytics democratization is critical for getting key insights into the hands of decision-makers quickly. I'm eager to learn the latest strategies and tools to make this achievable for large, complex data in capital markets.The webinar overview indicates that semantic layers and lakehouse approaches will be covered, so I'm looking forward to diving into the details. Definitely check out this timely webinar if you want to stay up-to-date on data innovation in capital markets!Register here: bit.ly/3tPueNEhashtag#ai hashtag#ml hashtag#dataanalytics hashtag#datascience hashtag#finance hashtag#capitalmarkets
+
+",,"54
+
+                        Harish V Krishnan and 53 others"
+7,"
+
+
+ I am beyond inspired with the sheer wit and quick to action attitude that Satya Nadella has showcased (consistently).I am keen to see the next wave of AI developments at Microsoft with Sam Altman and Greg Brockman at the wheel 🚗
+
+",,"947
+
+                        Harish V Krishnan and 946 others"
+8,"
+
+
+ This is so exciting!There are some exciting use cases where GPT4 Vision can help:📌 For the medical sector, GPT-4 can assist in analyzing medical images like X-rays, MRIs, or CT scans.📌 Satellite and aerial images can be analyzed to monitor crop health, predict yields, and detect pest or disease outbreaks.📌 In the retail sector, image analysis can be used for inventory management, analyzing customer preferences, and even designing new products based on trend analysis.📌 In art and design, image analysis can assist in style analysis, pattern generation, and even in creating new art pieces or designs.Does it fascinate you? Are you interested in learning more about how you can try this example out using an API?Then check out this amazing webinar ""How to Chat with Images Data Using New GPT-4 Vision API"" happening on 20th Nov, 10:00 AM PST.Register here: bit.ly/gpt4-vision-api
+
+",,81
+9,"
+
+
+ Well, I had no idea OpenAI would be dominating the news this weekend when we originally scheduled tomorrow's webinar ""How to Chat with Images / Video Data in Real-Time with New GPT-4 Vision API"" !Good timing I guess 😃 Come join us to see what's possible with OpenAI's latest release, and big thanks to Ayush Pai for this awesome demo / preview of our session tomorrow. RSVP NOW.hashtag#teamSam hashtag#saveOpenAI Akmal Chaudhri, Esq. Madhukar Kumar Riyaz Hyder Mohiyuddeen SingleStore
+
+",,"670
+
+                        Karthik Chandramouli Subramani and 669 others"
+10,"
+
+
+ During my last visit to New York City, I had a mind-blowing experience at ARTECHOUSE, where I witnessed the awe-inspiring fusion of data and AI in the world of art. It's the kind of creativity that gives you chills and makes you realize the limitless potential of technology! 🖌️You know how I'm always on the lookout for the coolest real-world applications of AI, right? Well, get ready to be blown away by ""The Art of AI"" - a phenomenal collaboration between Intel Corporation, Microsoft, and three incredibly talented artists who are pushing the boundaries of AI-created fine art! But this isn't your run-of-the-mill text-to-image stuff, folks. ""The Art of AI"" is a whole new level of interactive experience powered by the same cutting-edge AI solutions that Intel and Microsoft use to revolutionize industries worldwide. It's a true celebration of open, diverse AI solutions at work! If you plan to be at the Seattle Convention Center for the conference, make sure you swing by room 428. You'll be greeted by not one, not two, but three interactive AI art installations that will leave you in absolute awe! If you can't make it in person, don't fret! ""The Art of AI"" has an online interactive experience that lets you co-create unique AI artwork from wherever you are in the world. Whether you're a fellow data science enthusiast, an art aficionado, or just someone who's curious about the magical intersection of tech and art, you've got to check this out!So, mark your calendars and join us at Microsoft Ignite to witness the incredible fusion of art and AI, redefining what's possible in the world of human creativity. 🚀Date: 14th Nov to 17th Nov Venue: Seattle Convention Centerhashtag#MicrosoftIgnite hashtag#ArtificialIntelligence hashtag#AIinArt hashtag#TheArtofAI hashtag#Creativity hashtag#Innovation hashtag#TechandArt hashtag#Intel hashtag#IntelAmbassador 
+
+",,112
+11,"
+
+
+ I joined LinkedIn almost a decade ago, in 2014 to be precise.My goals were simple: Find like-minded individuals pursuing research in the field of data science and make connections across the globe.Since then LinkedIn has evolved into so much more - a learning, networking, hiring platform with its own ecosystem of creators! And the best part - Many celebrities, politicians, entrepreneurs and sports persons are realizing the potential of building a strong LinkedIn brand and sharing professional experiences outside of the most common careers like technology, business or finance! Most celebrities don’t even list their main profession as an actor, or a football player and instead use LinkedIn to highlight their investments, collaborations and startups - which I found to be interestingHere are some of my favorite “non-traditional” LinkedIn profiles!Snoop Dogg (Rapper)Talks About: business, cannabis, technology, music industry, and entrepreneurshipRyan Reynolds (Actor)Tagline: Part-Time Actor, Business Owner (“Love it!!”)Talks About: Movie Industry, Investments in Mint Mobile, Wrexham FC and other venturesToni Kroos (Soccer Player for Real Madrid and Germany)Suggested by my partner 🙂Talks About: Soccer, Investments in Toni Kroos Soccer Academy, Philantrophy Kevin Durant (NBA Player)Talks About: Investments,  Basketball, Venture Capital, Entrepreneurship, SportsJessica Alba (Actor)Talks About: Sustainability, Investments and Ownership of the Honest CompanyZaheer Khan (Cricketer)Talks About: Cricket Memoirs, Lessons learned on the field, teamwork, sporting commentarySuniel Shetty (Actor)Talks About: Entrepreneurship, Fitness, Investments outside of acting careerI am sure, I am missing out on so many interesting people that I never knew were active on this platform!! Let me know in the comments below - Who are some of your favorite non-traditional profiles to follow on LinkedIn?
+
+",,126
+12,"
+
+
+ As a data scientist, I'm always on the lookout for the latest innovations in data architecture and analytics. I recently came across an upcoming webinar that looks quite interesting - ""Building a Semantic Lakehouse for Capital Markets."" This webinar catches my eye because it focuses on simplifying large-scale data access and enabling analytics democratization. In the webinar, they plan to discuss how a lakehouse architecture combined with a semantic layer platform can provide easy access to data at scale. The promise of leveraging the power of a lakehouse while still providing familiar interfaces like Tableau, Power BI, and Excel is enticing. Having worked with financial data sets in previous roles, I'm curious to hear more about how this architecture could enable governance, discovery, and actionable insights.Analytics democratization is so important for getting key insights into the hands of decision makers quickly. I'm eager to learn the latest strategies and tools to make this achievable for large, complex data in the capital markets domain. The webinar overview indicates semantic layers and lakehouse approaches will be covered.Definitely check it out!hashtag#ai hashtag#ml hashtag#dataanalytics hashtag#datascience hashtag#finance hashtag#capitalmarkets 
+
+",,11
+13,"
+
+
+ Grab your spot to shart your week with some learning 🚀
+
+",,75
+14,"
+
+
+ If you have a sneaker-head friend, you would know about sneaker-bots. 😅 Well this is actually a pretty serious issue to deal with from a cybersecurity perspective. My partner and some of my friends are sneakerheads and I have seen them try to register for draws for limited edition sneaker drops from Nike or Adidas and be disappointed as some ""bots"" might have taken away many of these shoes. Floods of automated traffic that overwhelm sites and scoop up the hottest kicks before real fans can even enter their payment info. I was curious and read up about it- that it is a serious cybersecurity issue that these brands have to tackle. I am sure similar is the situation with other retail giants during times like Black Friday/ Cyber Monday Sales.If you know me, you would know, I try to find ""data science"" everywhere, so if you are like me, and curious to learn about how this entire pipeline would work- that includes a good a highly efficient ML models that detects such threats/ anomalies + scaling it to millions of requests; then I have a great resource for you!This is possible by using a combination of a messaging service + a super fast vector database! There is an exciting webinar happening on this topic to give you the step-by-step process and it’s free 😃 You can use these techniques to build your own lightning fast real-time ML pipeline!Recording to be shared after the session with all registrants! https://lnkd.in/geMKQA4Bhashtag#ai hashtag#threatdetection hashtag#cyberattack hashtag#realtimedata hashtag#analytics hashtag#datascience hashtag#ml 
+
+",,61
+15,"
+
+
+ 👉 Get 'Yummy Smoothie' at 50% OFF until Nov 1: https://a.co/d/6c62XYNI am thrilled to announce the launch of my debut children's book, 'Yummy Smoothie'! 🎉 🚀 'Yummy Smoothie' is a heartwarming picture book (for under 6 year olds) that follows the journey of Piku Panda, who embarks on a delightful adventure of making a delicious smoothie that the entire family enjoys. Along the way, Piku also learns about fruits, sounds, and numbers, making it a fun and educational read for young minds. The book is written in Hindi and English 🌟As an immigrant parent, living far away from my family in India, I saw the gap in diverse and bilingual literature in the US. It was this realization that inspired me to take action and launch my own bilingual book series.I invite you to join me on this exciting journey of promoting diversity in children's literature. Let's inspire and empower young readers together.Get your copy of 'Yummy Smoothie' today and help me spread the word! 📖🚀hashtag#yummysmoothie hashtag#books hashtag#parents hashtag#bilingualbooks
+
+",,58
+16,"
+
+
+ Did you know? You can use OpenAI’s readily available Chat APIs to build a state-of-the-art robotics project 🤖?In this upcoming webinar, you will learn about the exciting intersection of Generative AI and Robotics and how you can use it to build and tune your own robot based on a popular robotics hardware platform to execute tasks! Super cool, ain’t it?Speakers, Ayush Pai (CS@Georgia Tech) and Akmal Chaudhri, Esq. will walk you through the entire process of building the project, including giving you an overview of the robotics landscape and intersection of AI in the robotics industry.  I would’ve loved to have this knowledge and open-source capabilities at my disposal  in my undergraduate days so I could ace all my class projects 😄I surely will be tuning in for this one! If you are a student, developer or data professional intrigued by robotics and passionate about AI, make sure you do register!The session is free and you will receive a recording even if you cannot make it to the live session, so there is nothing to lose!Date: Monday, 30th October 2023 Time: 10:00am PT (10:30 pm IST)👇Registration Link in the Comments Below!hashtag#ai hashtag#openai hashtag#robotics 
+
+",,109
+17,"
+
+
+ 🚨Happening in 24 hours!🚨In the midst of all the talk about Generative AI and ML Algorithms, what happened to classic full-stack software development? And how can full-stack developers be ready for the AI wave?Learn more about how to build a full-stack AI application from scratch using React for the frontend and SingleStore DB as the backend using the Elegance SDK for seamless integration!Through an Interactive Demo and code sharing session, the speakers Madhukar Kumar and Yaroslav Demenskyi will guide you from ideation phase to a full functional AI application. Hint: the demo project is called “Books Chat”!This session is a must-attend for students looking to build portfolio projects as well as developers working in AI-first organizations!As always, recording, code assets and detailed guides will be available to you after the session upon registering 🙂Date: 26th October 2023 10:00am PT (10:30 pm IST)🧷 Registration Link in the Comments 👇
+
+",,"157
+
+                        Armand Ruiz and 156 others"
+18,"
+
+
+ As someone passionate about data innovation, I wanted to share a webinar that really opened my eyes to the future of the modern data stack.For those less familiar, the modern data stack refers to the technologies and architecture used for collecting, storing, managing, and analyzing data in today's world. This includes things like cloud data warehouses, data lakes, streaming data, and advanced analytics.I watched Elif Tutuk and David P. Mariani demonstrate how the Universal Semantic Layer to transform the modern data stack.Their enthusiasm was contagious as they dove into topics like:📌 Revolutionizing data operations with the Semantic Mesh and Universal Semantic Hub📌 Enabling self-service analytics through ""All Data Personas""📌 The key role of a universal semantic language in driving interoperability📌 How the Semantic Layer can empower ANY data consumer, regardless of technical skillThe live demo of seamlessly serving models from dbt and Power BI was a real ""aha"" moment for me. It gave me a glimpse of how unified and streamlined data workflows can be.As data professionals, I think we all wonder ""What's next?"" and ""How can we make things easier?"" This webinar gave me some exciting food for thought.I would love to hear your key takeaways if you get the chance to watch the recording. Let's keep pushing the boundaries of innovation!Webinar recording: https://bit.ly/3RNAOyk
+
+",,53
+19,"
+
+
+ I will be attending the AI Engineer Summit from 8th-10th Oct in San Francisco. If you are planning to be there too, you can find me in the Founders Hub space. If you are a AI startup founder, definitely try to attend this conference, there are many other founders and engineers from companies like OpenAI, Anthropic, AutoGPT, LangChain, LlamaIndex to name a few.You can also sign up for the free virtual ticket!Check out the conference details here: https://lnkd.in/gabes2mKDoug Kelly Gabriela de Queiroz Rob Ferguson Microsoft for Startups
+
+",,375
+20,"
+
+
+ Getting ready to celebrate innovative women in business! This Thursday evening at Fenwick & West Silicon Valley. Extremely grateful to sponsors 🚀 Fenwick & West, 🍷 O'Brien Estate Winery, 📸 Al Compton,  📹 Visla,  📈 Discerna, 👌 Productiv, 📢 Link Coaching, 💻 Project LEDO, 💙 David Gilmour, ❤️ Lauren Berman and 💚 Liz Rome!Join us and mingle with leaders from Apple, Cushman & Wakefield, Deloitte, Google, IBM, Intel Corporation, JLL, Palo Alto Networks, Salesforce, Stanford Health Care and Tesla, VCs from Vive Collective, SevenTrainVentures, J-Ventures Fund, J-Impact Fund and startups Airtable, Brightband, Discerna (https://discerna.ai/), Visla, UPshow, and Tandem PV.https://lnkd.in/gXhdKd2h
+
+",,"11,468
+
+                        Damien Benveniste, PhD and 11,467 others"
+21,"
+
+
+ I am humbled to be named an honoree by National Institute for Mentoring Business Leaders & Entrepreneurs (NIMBLE). As part of this recognition, I have the pleasure of inviting you to join me at the NIMBLE Innovative Women in Business Gala - Intimate Networking + Celebration event happening TOMORROW, October 5th, in Mountain View.This event is not just about celebrating accomplishments; it's about addressing a pressing issue. Women are significantly underrepresented in leadership roles, despite making up nearly half of the workforce. As a call to action, we're shining the spotlight on inspiring, groundbreaking female leaders who are reshaping the business landscape. 💪And here's the fantastic news - I have 10 complimentary tickets available for friends who would like to attend this remarkable event! Please ping me if you would like to attend the event 😄 But that's not all! We are also extending a special discount for students, startups, and non-profit professionals, because we believe in making this opportunity accessible to everyone passionate about driving positive change.Join us for an evening filled with inspiration, networking, and celebration, alongside other amazing honorees like Dr. Joy Buolamwini, Anula Jayasuriya, Asha Visweswaran, Leah McGowen-Hare, Iris Sagi, Doyeon Kim, Sherry Marcus Ph.D., Tzipor Ulman, Rachel Schall Thomas, Amnah Ajmal, Maria Lambert Bridge. It's an opportunity for Silicon Valley leaders to connect with the incredible women driving change in our industry.Thank you Mariette Wharton for making this happen ❤️
+
+",,48
+22,"
+
+
+ Starting my new adventure with Microsoft for Startups as a Senior AI Advocate 🧡I will be working with startups to help them build AI product strategies, ramp up on using OpenAI models, run workloads on Azure cloud, and provide advisory on technical areas like model tuning. Looking forward to working with startups to accelerate their journey in building AI products!If you are a tech founder in SF Bay Area looking to leverage AI for your next venture, hit me up and let's chat about how Microsoft for Startups can help drive it forward 😃There are some exciting announcements coming up, so stay tuned!Huge thanks to Rob Ferguson and Gabriela de Queiroz for the warm welcome to the team 🙌 hashtag#ai hashtag#microsoft hashtag#startups
+
+",,"203
+
+                        Armand Ruiz and 202 others"
+23,"
+
+
+ Kaggle was my first choice. What about you?
+
+",,117
+24,"
+
+
+ hashtag#IntelAmbassador A couple of weeks ago, I had an incredible experience at Intel Innovation 2023! From Intel's CEO Pat Gelsinger's game-changing insights to mind-blowing AI innovations, it's been two days of non-stop learning. If you weren't able to attend the conference and wanted to get a sneak-peak, check out my recap video, where I have shared the highlights that left me inspired. What's the most exciting thing you've seen at the conference? Let's chat in the comments! If you would like to catch up on more updates follow Intel Internet of Things page!https://lnkd.in/ghTyH_qJ hashtag#IntelInnovation2023 hashtag#AI hashtag#Innovation hashtag#ad 
+
+",,79
+25,"
+
+
+ As an industry data scientist, I have worked on multiple anomaly detection problems in the financial and manufacturing industries. One of the critical aspects of these use-cases is how to build AI models that can process large volumes of data and detect anomalies in real-time. Let's take an example of Fraud detection in financial transactions. With large volumes of transactions happening every second, catching fraudulent activities as they occur can prevent significant and irreversible losses. Real-time anomaly detection models are needed to flag unusual transactions. In this scenario, we need to understand the freshness of the data that we are obtaining from multiple sources. Data processing and transformation pipeline has to adhere to a specific latency, followed by the model's ability to predict and  deliver an output.The magic of using a messaging service like Kafka and an extremely powerful enterprise-grade vector database solution like Singlestore can easily solve use-cases like these and more  🌟 If you are curious about building a real-time data ingestion and model prediction pipeline, along with learning about the latest advancements in the industry, sign up for this exciting webinar now!Date: 4th October 2023, 10:00am PT (10:30pm IST)🖇 Registration Link in the Comments Below 👇 hashtag#ai hashtag#anomalydetection hashtag#ml SingleStore
+
+",,46
+26,"
+
+
+ Industry use cases of Large Language Models are endless! 💲💲One of the most fundamental (and sought after!) examples of predictive analytics is in the banking industry where a model can be trained on input personas to predict the creditworthiness of a new applicant for a loan. This is greatly extended by large language models due to the ability to analyze large volumes of data including financial records, past applications, credit scores and predictions etc. I had also spoken not too long ago about the potential of using document search powered by LLMs.If you are curious about learning more about the exciting intersection of Generative AI and the banking industry, I recommend signing up for an upcoming webinar that is addressing this very topic.You will also build a hands-on demo and get valuable industry skills that you can apply for building your own pet projects and showcase on your resume! 😎You will also receive code assets and a recording for viewing later, if you cannot attend live.Webinar goes Live in a few hours, so sign up ASAP!Date: 02nd October 2023, 10:00am PT (10:30 pm IST)🧷 Registration Link in the Comments Below! 👇hashtag#ai hashtag#llm hashtag#finance
+
+",,"850
+
+                        Armand Ruiz and 849 others"
+27,"
+
+
+ A great weekend read! Such a beautiful take on how human brain perceives images.
+
+",,421
+28,"
+
+
+ ✨ New Blog Post Alert ✨ Have you ever wondered about the mathematics behind how images are formed on cameras? Projective geometry governs the basis of how the human eye perceives the 3D world and how cameras capture beautiful images of the world around us. 👁️‍🗨️ If you are just getting into the world of computer vision or you are a seasoned computer vision engineer this post can be super insightful! 📸 Check out all our other computer vision posts linked in the comments. Let us know what other topics you would like to read more about! 🤖 Author : Supriya Arun https://lnkd.in/eaZixNm9hashtag#computervision hashtag#3DGeometry hashtag#AI
+
+",,"7,059
+
+                        Jayant Velichety, MBA, MS and 7,058 others"
+29,"
+
+
+ Join me for a Tech Talk with Armand Ruiz (Director AI, IBM) on a LinkedIn Live session to talk about Generative AI trends and future applications. Some of the topics we will be covering are:📌 The generative AI revolution and how it is reshaping everything📌 Emerging AI roles like prompt engineers and AI Engineers📌 What Armand has been working at IBM and why they are betting big in India📌 Economic factors in scaling generative AI solutions responsibly📌 Ethics considerations with AIMark your calendar so you get a notification when we start the session 🗓 See you all there! Happy Learning 🚀 hashtag#ai hashtag#ml hashtag#generativeai 
+
+",,282
+30,"
+
+
+ Who's excited about AI?! 🤩I've got big news about an awesome AI event coming October 17th in SF - the SingleStore Now Real-Time AI Conference at Chase Center in San Francisco! 🏟️This is a must for anyone interested in Generative AI and the latest trends in the industry. You'll hear from AI rockstars like Harrison Chase (CEO of LangChain) on the latest innovations in this space and get the opportunity to network with leaders in the AI industry. Plus, there are hands-on labs  to build Gen AI apps from scratch with Llama 2, LangChain, and other open source tools! A great bonus for those looking to gain new skills and be ready for the AI job market ✌️Normally $199, but I've got you covered with code ""Aishwarya-25"" to attend for just $25 before 09/27! 💥 An absolute steal to future-proof your skills in this fast-moving space.You'll leave with hands-on experience and insights into real-time AI from the innovators driving it forward. I learned so much at the last one! Whether you're an AI newbie or pro, don't miss  this chance to level up. ⬆️Check out the full agenda & everything the conference has to offer and sign up using the code here: https://lnkd.in/gCCJc8DA Looking forward to catching up on October 17th between sessions 😄The future is Now!
+
+",,"73
+
+                        Damien Benveniste, PhD and 72 others"
+31,"
+
+
+ After a year and nine months at Google, I am taking the next step in my data science career.  My time at Google has been truly transformative - I'm so grateful for the opportunities I've had to grow and learn as a professional. I could experience the new wave of Generative AI with exciting projects I got to work on, and had the opportunity to travel to New York, Chicago, SF and Seattle for delivering Gen AI Live Labs to Google Cloud customers.After an incredible journey at Google, where I've had the privilege to work alongside some of the brightest minds and learn from the best in the industry, it's time for me to embark on a new adventure. 🌟I am eternally grateful to my peers who have made my time at Google memorable and will always have a special place in my heart 💙 I believe that the best is yet to come, and I'm looking forward to new challenges, opportunities, and connections that lie ahead. I'll be sharing updates on my next adventure very soon 🚀hashtag#proudXoogler hashtag#GenerativeAI
+
+",,75
+32,"
+
+
+ 🚦Spoiler Alert!  If you’re remotely involved in applying Generative AI to industry use-cases and building AI powered apps, you would want to read on and sign up ASAP!We all know that Generative AI has amazing applications across many industries! General Purpose LLMs such as GPT-4 are trained on widely available public information and are truly incredible. However, to harness the power of these models for your specific industry/use-case, it is very important to train LLMs on domain specific data! This is also called model augmentation.As you may know, this data is often not easy to access, it is stored behind obscure SQL databases, APIs, on-prem file servers and even presentation slides 😅!!Enter LlamaIndex, an open-source data framework to make this data ingestible and easily available for model augmentation. LLamaIndex provides extensible data connectors to ingest data from these disparate sources and prep the data to be consumed by the model. Another feature that I found interesting was the ability to build powerful data indexes to make the data highly performant for model training. LlamaIndex + ChatGPT is a deadly combo 🚀If you’re interested in learning how you can leverage LlamaIndex to integrate powerful LLMs with your domain-specific data, sign up for this exciting webinar happening on Monday!As a surprise, Jerry Liu the Founder of LlamaIndex (Yes!) will be speaking along with Alexander Peng from SingleStore 🙌 If You ♥️ Open Source and Generative AI, do sign up!As always, the webinar is FREE and you will receive the recording for viewing later as well as Github Assets for experimenting.Date: Monday, September 25th, 10:00am PST (10:30 pm IST)🧷 Registration Link in the comments 👇hashtag#GenerativeAI hashtag#ChatGPT hashtag#machinelearning
+
+",,108
+33,"
+
+
+ I came across an insightful whitepaper from GigaOm on Semantic Layerrs.In this report, you'll dive into a world where data meets innovation. Here's a sneak peek at what you'll discover:🚀 Streamlined Data Delivery: Enterprises are finding new ways to supercharge their data delivery processes. This report sheds light on how organizations are delivering data to decision-makers faster than ever, giving them the insights they need when they need them.🤝 The Power of Semantic Layers: The semantic layer is a game-changer. It's uniting critical business metrics, fostering a common analytics vocabulary across all departments. It's not just data, it's a language that brings teams together for more effective decision-making.📈 AtScale Tool:  AtScale excels across various categories, including user interface, data source and client connectivity, security, access controls, and native API support – consistently rated as 'exceptional' and I can't wait for you to see why.I encourage you to grab your copy and explore the full report. If you're a fellow data enthusiast like me, this is a goldmine of information that can help you take your data science game to the next level. Let's keep pushing the boundaries of what's possible with data! https://bit.ly/46fIBZTFeel free to share your thoughts and insights once you've had a chance to dig in. I'm always up for a good data science related discussion.hashtag#ai hashtag#datascience hashtag#semanticlayer
+
+",,73
+34,"
+
+
+ After the EB1A roundtable I did a couple of weeks ago for Data Science & AI professionals, I got really positive feedback about the resource sheet I put together for the criterias. My next roundtable which is happening this Saturday is also SOLD OUT, and this resource sheet is given to the attendees of the roundtable along with being part of a Slack channel with other EB1A aspirants from the Data & AI field, and me! The roundtable is to focus on individual cases and giving them pointed advice. If you are a data/AI professional looking to build their EB1A profile and need specific resources around how to approach each criteria, this resource sheet is for you!This digital product is an ever-expanding set of resources based on my personal experience and the experiences of other EB-1 aspirants!We cover each of the criteria and provide links and recommendations to achieve the goal of meeting the criteria successfully according to USCIS guidelines. Now is the time to break those immigration related hurdles and boost your data science career Disclaimer: This is not meant to be immigration advice and is instead a detailed set of examples and resources based on personal experience. Always consult a qualified immigration attorney to discuss your particular casehashtag#eb1a hashtag#greencard hashtag#ai hashtag#datascience
+
+",,38
+35,"
+
+
+ In the last year, we have seen a hyper accelerated growth in the space of AI. One of the most evident facts that has emerged with this, is that AI innovation isn't just about software and algorithms but is equally about groundbreaking hardware technology. I am super excited to be attending Intel's Innovation conference on 19th-20th September in San Jose! This two-day technology conference is all about learning, for everyone from students, data science practitioners to technical leaders, architects, and executives. The keynotes are delivered by Pat Gelsinger and Greg Lavender, followed by an extensive range of talks, workshops/hands on labs, breakout sessions, and showcases on both the days, in categories like Artificial Intelligence, NextGen Systems and Platforms, Edge to Cloud, and Advanced Technology. I can't wait to delve into learning about what's next in the space of AI.If you are planning to be there in person as well, hit me up, let's catch up for coffee ☕️ 😄 hashtag#ai hashtag#ml hashtag#conference hashtag#IntelInfluencer Intel Corporation
+
+",,74
+36,"
+
+
+ This is such a well researched and comprehensive blog on LLMs. Don't forget to bookmark and share it with your network 🙌Happy Learning 🚀
+
+",,"2,443
+
+                        Aiyngaran Chockalingam and 2,442 others"
+37,"
+
+
+ 📚 Exciting Blog Alert! Explore the Fascinating World of LLM and Attention Mechanisms 🧠Attention is at the heart of deep learning, and in our latest blog post, we dive deep into the world of Transformers and Attention Mechanisms. 🤖Whether you're a seasoned AI pro or just starting your journey, this blog is a must-read. The fusion of LLM and Attention Mechanisms has revolutionized Natural Language Processing, image recognition, and more. 🌐Read the full blog here: https://lnkd.in/g6ja6UTuAuthor : Supriya ArunDon't miss out on the chance to level up your AI knowledge! 💡hashtag#AI hashtag#MachineLearning hashtag#DeepLearning hashtag#LLM hashtag#AttentionMechanisms hashtag#NLP hashtag#BlogPost hashtag#TechEducation hashtag#Innovation
+
+",,121
+38,"
+
+
+ Are you curious to understand how to validate the output you get from your LLMs, check this out!
+
+",,66
+39,"
+
+
+ 📢 Validate your LLM Output using Guardrails AI Python Package The blog post from Cohere explains how to use this package to validate LLM outputs. Why do we need to use this package? - Output validation is a very important step in building any LLM applications.  - Helps with quality assurance. - Safe and ethical responses. - Validity of choices when returning the output.More reasons with examples are explained in the blog. The link to the blog can be found in the comments. hashtag#llms hashtag#guardrails hashtag#qualityassurance hashtag#ai hashtag#illuminateai P.S.: Follow Illuminate AI to stay up to date with AI tech.
+
+",,74
+40,"
+
+
+ We are starting the cohort in 2 weeks, sign up soon! We have limited seats.Data Foundations is a two-week, beginner-friendly course designed to equip learners with the fundamental skills to understand and interpret data in today's exponentially growing data-driven world. This course delves into the realms of data types, collection, analysis, and effective communication of insights, with a particular emphasis on practical applications in Microsoft Excel. Participants will not only explore essential statistical concepts but also the art of data storytelling and visualization, making it a comprehensive introductory journey into data science and data literacy.Duration: 2 weeksStarts: Sept 11th 2023Check out the slides below for more details 👇The cohort is limited seats, so hurry up and register now!🚀 For my network, I am offering a 10% discount on the course. Use the coupon code AISHWARYAS10The cohort sessions will be live, and include resources and learning material. To make sure you get the practical knowledge, there are 2 projects included at the end of each week.We will also have a Teaching Assistant (TA) and we will be conducting office hours to clarify any of your questions, and assist you with the projects.See you there! Happy Learning 👩🏻‍💻hashtag#ai hashtag#ml hashtag#datascience hashtag#data hashtag#dataliteracy hashtag#datavisualization Uplimit
+
+",,"1,669
+
+                        Aiyngaran Chockalingam and 1,668 others"
+41,"
+
+
+ And that's a wrap to Google Cloud Next 2023! It was such a wonderful experience talking to all the customers about their use-cases in the Generative AI Showcase. The conference was very focused on the future of Generative AI, with Duet AI integration in Google Workspace and Vertex AI GenAI offerings. Thank you to all the Cloud leaders for making this event a success and all the customers who really are the core of everything that happens here! Nitin Aggarwal Thomas Cliett Nathan Faggian Tanvi Desaihashtag#google hashtag#next hashtag#conference hashtag#genai hashtag#ai hashtag#ml
+
+",,225
+42,"
+
+
+ We are starting the cohort in 2 weeks, sign up soon! We have limited seats.Data Foundations is a two-week, beginner-friendly course designed to equip learners with the fundamental skills to understand and interpret data in today's exponentially growing data-driven world. This course delves into the realms of data types, collection, analysis, and effective communication of insights, with a particular emphasis on practical applications in Microsoft Excel. Participants will not only explore essential statistical concepts but also the art of data storytelling and visualization, making it a comprehensive introductory journey into data science and data literacy.Duration: 2 weeksStarts: Sept 11th 2023Check out the slides below for more details 👇The cohort is limited seats, so hurry up and register now!🚀 For my network, I am offering a 10% discount on the course. Use the coupon code AISHWARYAS10The cohort sessions will be live, and include resources and learning material. To make sure you get the practical knowledge, there are 2 projects included at the end of each week.We will also have a Teaching Assistant (TA) and we will be conducting office hours to clarify any of your questions, and assist you with the projects.See you there! Happy Learning 👩🏻‍💻hashtag#ai hashtag#ml hashtag#datascience hashtag#data hashtag#dataliteracy hashtag#datavisualization Uplimit
+
+",,"477
+
+                        Daliana Liu and 476 others"
+43,"
+
+
+ 🔍 Just stumbled upon something big and had to share with my fellow data enthusiasts! 📊🚀Delphi Labs' natural language query engine + AtScale's Semantic Layer = a whole new world of analytics. Trust me, this is the kind of innovation that gets my data-loving heart racing!In this upcoming Tech Talk, get ready to dive into:🌐 Seamless Integration: Discover how Delphi Labs' AI-powered natural language interface seamlessly integrates with tools like Slack, making data exploration a breeze for everyone.💡 Single Source of Truth: Learn how AtScale's Semantic Layer revolutionizes data consumption, ensuring consistent, fast, and reliable business metrics that you can always count on.🤖 Conversational BI: Uncover the magic of conversational Business Intelligence, opening doors to more intuitive data exploration for a diverse range of users.Don't just take my word for it – this is a must-attend for all data aficionados! 🚀 Whether you're a practitioner or a leader, this webinar promises insights that will elevate your data game.Thank you David Jayatillake, Michael Irvine, David P. Mariani for putting this together.Date: Wednesday, September 13th at 2PM ET / 11AM PT🔗 Register Today: https://bit.ly/44ntg7Uhashtag#ai hashtag#ml hashtag#dataanalytics hashtag#webinar 
+
+",,194
+44,"
+
+
+ Congratulations Vaikkunth! I am sure you are going to reach the stars with your passion and commitment 🚀
+
+",,584
+45,"
+
+
+ 🚀 Exciting News! 🚀 I am thrilled to announce that DynamoFL has just closed our Series A funding round, securing a $15.1 million investment, led by Nexus Venture Partners and Canapi Ventures. 🌟We're thrilled to welcome strategic support from investors like Formus Capital, Soma Capital, and visionary angel investors Vojta Jína, Tolga Erbay, Charu Jangid, Aishwarya Srinivasan, and Dorothy Chou. 🙌 With a total funding of $19.3M, DynamoFL is shaping the future of AI with our end-to-end infrastructure for privacy-preserving, regulation-compliant Generative AI. The future of AI is here, and we're shaping it together at DynamoFL. hashtag#privacy hashtag#ai hashtag#compliance hashtag#seriesA hashtag#regulation hashtag#finance hashtag#insurance hashtag#automotive hashtag#ml hashtag#federatedlearning hashtag#differentialprivacy hashtag#product hashtag#automotiveTechCrunch Release: https://lnkd.in/gytZ2r_m
+
+",,118
+46,"
+
+
+ Book Recommendation Coming Your Way!After the recent webinar I hosted on ""Exploring Causal Analysis in Machine Learning,"" many of you reached out to me asking for a solid book recommendation that covers a variety of use-cases with open-source solutions. Well, here it is!🔥 I highly recommend ""Causal Inference and Discovery using Python"" by Aleksander Molak. This resource is fantastic: https://packt.link/7EJw5During my recent one-on-one mentorship sessions, I've had the privilege of speaking with individuals who come from non-CS backgrounds and are curious about whether Data Science & AI is a suitable field for them. I understand that many students find themselves in a perplexing situation. While they recognize that Data Science is a thriving and lucrative field, they're uncertain if it's the right fit for them. Additionally, if you're a subject matter expert in a particular industry without a strong data science skillset, but you're interested in educating yourself in that realm, I have the perfect resource for you!🔥 ""AI & Data Literacy"" by Bill Schmarzo is the handbook you've been looking for: https://packt.link/ndjx4Don't miss out on these gems! And if you know of a friend, colleague, classmate, or mentee who could benefit from these books, why not share the gift of knowledge with them?Happy Learning 🚀hashtag#ai hashtag#ml Packt-----------------------------------------------------------------------------I consistently write content about data science and AI, share technical resources, and thought leadership on the future of AI.I also share my experience as an international student and resources on immigration to the US. Follow me to stay up to date Aishwarya Srinivasan💡
+
+",,122
+47,"
+
+
+ With the large variety of open-source, pre-trained large language models available today, a growing challenge (and opportunity!) is to make it easy and user-friendly to apply these sophisticated models for practical use-cases.An ideal tool should completely abstract the complexities of the underlying algorithm, allowing users to fine-tune and modify parameters to suit their use-cases and run tests using their data in an efficient manner.If you have not heard of Ludwig before, it is an open-source, low code framework that was built to make the process of model development, comparison, and iteration seamless. You can think of it as an abstraction for the model experimentation process. Ludwig provides a set of model architectures that can be combined together to create an end-to-end model for a given use case. In the last release of Ludwig 0.7, the library had capabilities of integrating large language models, but were restricted to predictive tasks like classification and regression.And now! With the latest release, Ludwig 0.8, the developers are now extending support for Generative AI tasks like chatbots, code generation, text summarization, and much more. All of this is made possible using the new “llm” model type.If you’re a data science professional, you will surely relate to some of the infrastructure and tuning problems that Ludwig aims to solve. With this new release, some of the features that have now been integrated are:📌 Declaratively Fine-Tune Large Language Models with the new “llm” model type, allowing users to build text-based Generative AI systems like chatbots, code assistants, etc. without worrying about the infra needed to make everything work with large models and large datasets.📌 Integration with Deepspeed in one config parameter for data + model parallel training, enabling Ludwig to train models too large for a single GPU, or even a single node, with just a single config option📌 Parameter efficient fine-tuning (PEFT) techniques like Low-rank adaptation (LoRA), dramatically reducing the number of trainable parameters and speeding up fine-tuning considerably.📌 Quantized training with 4-bit and 8-bit compression (QLoRA), enabling fine-tuning LLMs on a single GPU📌 Prompt templating to combine multiple columns from a structured dataset into a single input feature to the LLM📌 Zero-shot and In-context learning (including retrieval augmented ICL) for applying LLMs to solve previously unseen supervised ML tasks without additional trainingI have added a bunch of resources that you would love in the first comment!Happy Learning 🚀hashtag#ai hashtag#ml hashtag#datascience hashtag#llm hashtag#genai Predibase
+
+",,270
+48,"
+
+
+ In-person meetup 2.0 with the topmate.io rockstars in the Bay Area!Kudos to the Topmate team for taking user experience and feedback to heart. As one of their platforms power users, I've had the privilege to share my ideas for feature upgrades, and guess what? Bam! They're implemented faster than a lightning bolt. 🚀 That's the secret sauce of this fantastic product - they LISTEN to their users! 🙌This meetup had another special person joining us- Praneet Dutta, who is a great friend, colleague and sounding board for my ideas. An exceptional research engineer at DeepMind, who by the way is also now on topmate to share his wisdom and help people advance in their careers. Let me know in the comments section on which topic Praneet and I should collaborate on to share with you!This wonderful chat with the topmate team (Dinesh Singh, Shubham Khoker) , Praneet and of course my biggest advisor, cheerleader, and fiancé Aditya fostered a great idea for us to collaborate on 😄 There is something big coming up, so stay tuned folks 🚀🔥Hint: This is going to be in-person in Bay Area!hashtag#ai4good hashtag#entrepreneurship hashtag#mentorship hashtag#leadership hashtag#motivation
+
+",,62
+49,"
+
+
+ I can't emphasis enough on how much my mentors have played a crucial role in my life. One of the biggest strengths I have had in my career and life is to have my mentors be my pillar of support. With the vision to help other find this support system, I started Illuminate AI's mentorship program. We are launching the 4th cohort of the mentorship program now!If you are someone looking for some help and guidance to start your career or advance your career in data science/ AI, please do apply for the mentorship program. We have been trying to provide as much resources to our mentees to make them successful.If you are a mid-advance level in your career and would like to impart your knowledge to help someone grow, we NEED you as our mentor!To ensure that both mentors and mentees can make the most of this opportunity, we have made sure to have some perks for you through the mentorship program. Check it out below!Applications are open now, and will close on 31st July 12am PST. Apply SOON!hashtag#ai hashtag#ml hashtag#mentoringworks hashtag#mentoring 
+
+",,95
+50,"
+
+
+ Love this list of resources!
+
+",,188
+51,"
+
+
+ Courses I recommend to become an AI Engineer and to get all the skills you need to stand out.Becoming an AI engineer is a challenging but rewarding career. If you're interested in AI, I encourage you to pursue this path. Find the links to the courses in the first comment below.P.S. Repost this ♻️ if you're on this AI journey. Let's bring a few other folks along with us.
+
+",,"3,809"
+52,"
+
+
+ Check out this free webinar coming up on 26th July! 🚀This webinar discussion will focus on using AtScale and BigQuery to deliver speed-of-thought analytics without extracting data or maintaining complex OLAP cube architectures. This approach creates a compelling alternative to legacy solutions like Microsoft SSAS. Analysts can interact with complete data sets using familiar tools like Excel and PowerBI without sacrificing performance.You’ll learn about how leading analytics teams are rethinking legacy approaches to delivering low-latency business intelligence reporting across multiple verticals. When: Wednesday, July 26th, 2023 at 2PM ET / 11AM PTFeatured Technologists:- Maruti C, Technical Architect, Data & Analytics, Global Partner Engineering at Google- David P. Mariani, CTO, Founder at AtScaleSee you there!hashtag#ai hashtag#ml hashtag#datascience hashtag#bigquery hashtag#datavisualization 
+
+",,"1,234"
+53,"
+
+
+ *drumsroll* The wait is over 🔥Illuminate AI is back with their next cohort of Mentorship program.The goal of the mentorship program is to help mentees find the most suitable mentor for them, and for us to identify passionate mentors who are looking to give back to the community.🙇🏾 Who can be a mentee?Anyone from a student, early professional or even a mid-career level professional can be a mentee. If you are looking for a mentor who can guide you towards your goals and help you set your milestones- this is for YOU! With this mentorship program, you can get focused guidance on what will make you successful in your career journey, for example- building portfolio projects, working on a research paper, preparing for your job interviews etc. Mentees will be matched to the most suitable mentor based on they area of expertise they are looking for. 👩🏻‍💻Who can be a mentor?Anyone who is mid-to senior level career professional or a professor or a researcher, and willing to give back to the community by mentoring someone in the field of data science and AI. Mentors at Illuminate AI community receive various other perks as a token of appreciation for their contributions. Mentors will have exclusive access to the network of other mentors and the product +AI council leaders via Slack. Mentors will also get opportunities for conducting webinars and panel discussions, and will receive opportunities to showcase their thought leadership. Mentors also receive a swag box from Illuminate AI.There are applications to be both a mentor and a mentees.The applications are open now on Illuminate AI website! Go apply NOW 😄The applications close on 31st July and we will take another week to finalize the applicants for the cohort. hashtag#ai hashtag#ml hashtag#datascience hashtag#mentorship hashtag#mentoringworks hashtag#mentorshipmatters hashtag#leadership 
+
+",,284
+54,"
+
+
+ I can't keep calm, since I have been working on an exciting project- my first book 😄While I am putting my final touches, I want to seek professional help to create illustrations and bring to life some of the ideas I have.If you are a book illustrator and have experience formatting a book, please reach out to me via email with your portfolio, so I can see if your style resembles with what I am trying to bring out in my book.Please share this with anyone whom you think would be a good fit! PS: This is a paid position and you will be compensated well for your hard work ❤️hashtag#book hashtag#nonfiction hashtag#motivation hashtag#booklaunch hashtag#designer
+
+",,175
+55,"
+
+
+ Tick-tock, tick-tock! 24 hours to go!! This is my second collaboration with Snehal Pachigar, almost after 2 years 😄Snehal is someone I always reach out to if I have to declutter my thoughts and build a better focus for my goals. And must I say he is gifted with this ability to help people re-focus! In this webinar, Snehal and I are teaming together to share tips and journey on how we have been able to relentlessly follow our dreams while performing in a high-productivity work environment.Book your tickets soon! Once you register, you will receive a link to put in your questions that we will answer live during the webinar.PS: The proceedings of the webinar will be donated to a charity 💙hashtag#work hashtag#collaboration hashtag#webinar hashtag#productivity hashtag#motivation hashtag#goals hashtag#planning hashtag#focusonsuccess hashtag#success hashtag#successmindset topmate.io
+
+",,"1,063"
+56,"
+
+
+ In just over a month, and a great experience on the platform, I can say topmate.io team is striving for excellence 🔥Just the way they take feedback from the creators to make the platform better is a green flag 💚Keep rocking,team!
+
+",,621
+57,"
+
+
+ Female Creators on Topmate that Dominate the Linkedin Community:1. Aishwarya Srinivasan - Aishwarya is a Data Scientist at Google Cloud AI Services. She holds a post-graduate in Data Science from Columbia University and have been researching in the field for over 7 years. Her content is all about LinkedIn Branding, Ai and tech. 2. Ishita Ganotra - Ishita is a CEO and founder of a mental wellness startup, she shares some wonderful stories and great insights on mental well-being on Linkedin. 3. Palakh Khanna - Palakh is the founder of Break. The. Ice, and shares her experiences and advice on GenZ, entrepreneurship and youth employment. She has also been the Josh Talk speaker. 4. Nada Buhendi- Nada is a career coach, a podcast host. She focuses her thoughts on career, leadership, growth mindset and breaking the imposter syndrome that we all face at one point or the other in our lives. 5. Khushboo Verma - Khushboo is a software engineer, passionate about community, technology and software engineering. Her content will put you in awe of her skills and experience. 6. Priya Vajpeyi - Priyal is a Harvard Accredited Career Manager, and a personal branding strategist, she’s known for her skills and expertise when it comes to resume writing, business development and Linkedin optimization. Her feed is full of amazing value bombs. I and my whole team is proud that we are working with such amazing women.If you’re a creator who wants to get due value for their skills and expertise, register yourself topmate.io and watch the magic happen. topmate.io hashtag#femalecreator hashtag#creatoreconomy
+
+",,"4,643"
+58,"
+
+
+ If you look up to people out there who are able to follow their personal passion projects, while juggling with their full-time, you are in the right spot.We are less than a week away from the webinar 😄 Register soon if you haven't already ❤️Snehal Pachigar and I are teaming together to share tips and our journey on how we have been able to follow our dreams while performing in a high-productivity work environment.Join us for this 1-hour webinar, where we talk about:- Why should we have personal goals?- Creating a vision / personal goal- Laying down milestones- Setting Priorities- Creating a schedule- Leveraging and optimizing Weekends and time outside of work- Avoiding Burnout- Staying Flexible and adapting as we go. The goal is to feel fulfilled and enjoy the journey while also unleashing your true potential.hashtag#work hashtag#success hashtag#share hashtag#people hashtag#coaching hashtag#job hashtag#connections hashtag#environment hashtag#productivity hashtag#webinar topmate.io
+
+",,125
+59,"
+
+
+ An overflowing classroom of people!!! 🚀 Google's very first GenAI Live Labs happened in NY yesterday and I was pleased to see an overwhelmingly positive response from our customers.I got the opportunity to lead the GenAI workshop and talk about Google Cloud's GenAI offerings, run through the PaLM model access via SDK, and dig deep into industry use-cases with the customers. We spoke about prompt engineering, prompt tuning, and fine tuning of the models in relevant use-cases. I was pleasantly surprised to see how engaged the customers were to discuss about the their business use-case and go much beyond what we had in the agenda and talk about LMOps (Large Model Ops) and Reinforcement Learning Human Feedback (RLHF). The classroom was overflowing with people (as you can see in the pictures).We had Philip Moyer and Patricia Florissi, Ph. D. talk about the GenAI product google is building both for consumers and enterprises. Then we had Madeleine Clare Elish, PhD talk extensively about the Responsible AI considerations (which is of utmost importance to Google). Ben Royce led a breakout session for leaderships and decision makers to understand the strategies they need to house GenAI applications in their organization. We had 2 breakout rooms for hands-on workshop on our GenAI products and to discuss about the enterprise use-case which Ram Seshadri and I led. One of the interesting things that came out when we were comparing our notes post our sessions, was how excited the customers were to connect the products to their use-cases! We had a lot of takeaways from this session which will help us improve on the hands-on session.I am looking forward to two more GenAI Live Labs session in SF (23rd May) and Seattle (25th May) coming up next week. (Don't worry we have plenty of them planned for various different cities in the next months 😄)If you are a GCP customer and are interested to attend the GenAI Live Labs in your city or learn more about our offerings, reach out to me!!We are in very exciting times and a huge shoutout to our leaders Lee Moore, Brad Little, Matthew Dauphinée, and Carolyn Ujcic for ensuring we are at the forefront to help enterprises make most of the Generative AI capabilities to transform their businesses. Shoutout to Tad E. and Vishal P. who helped us run the QwikLabs smoothly 🫡hashtag#ai hashtag#ml hashtag#genai hashtag#google hashtag#datascience hashtag#data
+
+",,124
+60,"
+
+
+ To all the AI enthusiasts- my short course on Generative AI and LLMs in action is coming up soon!!! Check it out here:https://lnkd.in/g2mg9YTghashtag#ai hashtag#ml hashtag#datascience hashtag#genai
+
+",,73
+61,"
+
+
+ Are you an international student, immigrant, or aspirant looking to come to the United States? I came to the US in 2017 to do my masters, and I know firsthand how challenging it can be to navigate the visa process. 🤨I recently came across ArgoVisa, a company that can help you succeed in your U.S. visa interview. With a team of Former Visa Officers who have conducted over 1 million+ interviews and worked in over 23 countries, their expertise and personalized service can be a game-changer.I was curious to learn more about Argo Visa's services, so I spoke to their team to understand the kind of consultation they give, and I also checked out their testimonials. I was impressed by the level of personalization they offer, where they match you with the best officer for your case taking into consideration visa type, country, language, prior visa history, and timing. You can even bring a third party like an attorney or family member to your session. 🚀If you're looking for help with your U.S. visa interview, I highly recommend ArgoVisa. You can visit their website to learn more about their services and schedule a consultation with one of their Former Visa Officers.I have negotiated a good discount for my followers, that will get you 15% off on your consultation with their officers.Use the coupon code: AISH15 while booking your sessionhashtag#visa hashtag#us hashtag#immigration hashtag#h1b hashtag#f1visa 
+
+",,150
+62,"
+
+
+ Wrapped up the very first webinar on topmate.io on ""Kickstarting your data science journey 🥳 There were over 100 people join the live webinar and happy to hear that it was helpful for folks.I intend to take any feedback from the attendees to make these webinars more fruitful for all of you. Stay tuned for more 😄If you are interested to setup 1-1 time with me for career guidance, building your personal brand or immigration to US (study/work) check out here: https://lnkd.in/gesqsAJNhashtag#ai hashtag#ml hashtag#career hashtag#datascience hashtag#datascientist hashtag#mentorship hashtag#webinar
+
+",,224
+63,"
+
+
+ I still can't believe this happened 😍 Thanks to topmate.io for making this a reality 🙌To support their hashtag#beavailable campaign, I am opening up 3 FREE slots to book a 15 min session with me ❤️Update: All slots are booked! I had kept open 10 slots and will be choosing 3 in random, stay tuned!To see other services: https://lnkd.in/gGH2cBMzHurry!!!hashtag#mentor hashtag#ai hashtag#datascientist hashtag#motivation
+
+",,"4,256"
+64,"
+
+
+ Google Brain and DeepMind are joining forces. Learn more here:
+
+",,268
+65,"
+
+
+ It is finally here 😇A couple of months ago, I got a call from Los Angeles Times for an interview to share my journey as an AAPI in the United States. This project was in collaboration with Merrill Lynch, where they wanted to focus on financial awareness and the importance of financial independence as a woman. This is one ideology my mother instilled in my since I was a kid. I am super excited to share this short story of mine featured on Merrill Lynch website.I would love to hear from all of you- how do you manage your finances, what are your golden principles when it comes to financial independence and investments?Thank you Los Angeles Times for this wonderful production 💙You can check out the full edition here: https://lnkd.in/gKM7g5awPS: Shoutout to my wonderful partner Aditya who is also part of my story 😄hashtag#collaboration hashtag#interview hashtag#finances hashtag#investments 
+
+",,194
+66,"
+
+
+ This is a really good resource that walks you over how easy and integrated it is to build Generative AI model powered applications.🙌
+
+",,568
+67,"
+
+
+ Generative AI is poised to usher in a new wave of interactive, multimodal experiences that transform how we interact with information, brands, and one another. Learn how Google Cloud makes it easy to create generative AI apps in minutes. Gen AI App Builder brings together Google’s latest foundation models, enterprise search, and conversation AI capabilities to help you easily build credible, controllable, and customizable experiences.
+
+",,165
+68,"
+
+
+ Here is one of the latest addition to our DocAI workbench 🔥Businesses often face challenges in managing the inflow of unclassified documents, which can hinder their ability to scale and automate processes effectively. Let's look at a financial organization receiving tens of documents per customer and need to validate the document. This would take lot of manual hours and is prone to human error. To address these challenges, Google Cloud has launched Custom Document Classifier (CDC) as part of DocumentAI Workbench.CDC is a new feature that allows businesses to train highly accurate machine learning models to automatically classify document types. This has tangible benefits such as reducing review time and cost, and enabling better automation of downstream processes, such as selecting proper storage, analysis, or processing steps; and most importantly provide a seamless way for organizations to scale their solution.If you're interested in learning more about how CDC can improve your document management processes, check out our latest blog post. https://lnkd.in/ePpibHBtKudos to Derek Egan and his team 👏hashtag#machinelearning hashtag#google hashtag#documentai hashtag#cloud 
+
+",,"1,083"
+69,"
+
+
+ 📣 Data Science practitioners, are you ready to take your skills to the next level? 💪While technical skills are important, it's crucial to remember that building solutions for organizations requires more than just technical expertise. Business leads and strategists are the ultimate decision-makers who will use your data science insights, so it's essential that your applications cater to their needs.Enter Semantic Layer - a business representation of data that offers a consolidated view of data across an organization. With Semantic Layer, you can create a consistent and singular view of data from different sources, making it easier for business users to access the insights they need.Curious to learn more about Semantic Layer? Join the 2nd annual Semantic Layer Summit! This FREE, one-day virtual event features over 30 Enterprise Data Leaders & Technologists sharing tools and best practices to deliver actionable insights in large organizations.You'll have the opportunity to learn from the best in the industry, including speakers such as Artyom Keydunov (founder and CEO of Cube), David P. Mariani(co-founder and CTO of AtScale), Justin Borgman (founder and CEO of Starburst), Kendall Clark (founder and CEO of Stardog), and Nick Handel(founder and CEO of Transform).Don't miss out on this chance to level up your data science skills. 🔥 Register now at https://bit.ly/3WkbYob and gain valuable insights from industry experts.Here are three reasons why you should attend the Semantic Layer Summit:📌 Gain insights from over 30 industry experts on how to deliver actionable insights in large organizations.📌 Learn about the latest tools and best practices for creating a consistent and singular view of data from different sources.📌 Network with fellow data science practitioners and connect with thought leaders in the field.Happy learning! 💡hashtag#datascience hashtag#business hashtag#opportunity hashtag#data hashtag#learning hashtag#network hashtag#event hashtag#leaders 
+
+",,121
+70,"
+
+
+ Say hello to Generative AI Studio in Vertex AI  🔥Vertex AI NOW boasts a new capability called Generative AI Studio, which is perfect for generating content for marketing campaigns. 😍 Simply enter your prompt, and the tool will generate a variety of believable and accurate content options for you to use across your channels, such as blogs, Instagram posts, tweets, and images. 📈And the best part? You don't need any prior ML expertise to use it! 🤯Plus, Vertex AI is constantly innovating and has recently added four important new additions to its platform:1️⃣ Prompt Design - giving users more configurability for more sophisticated scenarios2️⃣ Tuning - giving user the ability to make the models customizable to their dataset3️⃣ Vertex Model Garden - a single environment to help you search and discover the latest models from Google Research and DeepMind, as well as open source and third-party models.4️⃣ Multimodality - contextualizing simple text prompts to generate imagesCheck it out here: https://lnkd.in/gmRNFmM7https://lnkd.in/givqV8xGhashtag#VertexAI hashtag#MachineLearning hashtag#Marketing hashtag#ContentCreation hashtag#GenerativeAI hashtag#GoogleCloud hashtag#ML hashtag#AI hashtag#Innovation hashtag#Technology hashtag#DigitalMarketing
+
+",,181
+71,"
+
+
+ 🚨 Attention all aspiring developers! Exciting news!  A FREE course on DevOps principles & key technologies is here! The course is delivered by Sourabh Bajaj- ex-Google Brain Tech Lead! 🤖  Learn about Docker, Kubernetes, CI/CD, and Terraform in one course!💻 Perfect for all skill levels.🔥 Improve your software development game and enhance your resume!Register now! ⏰ https://lnkd.in/gN_ikeUXhashtag#google hashtag#kubernetes hashtag#resume hashtag#devops hashtag#tech hashtag#softwaredevelopment 
+
+",,300
+72,"
+
+
+ Sunny Weekend in SoCal ☀️I had the extreme privilege to be invited to the University of California, Los Angeles to deliver a 3 hour course on Applied Time Series using Python for students from the Master of Quantitative Economics at UCLA . There were 100+ students who attended and I had really insightful conversations during my office hours chatting with students. I also got some really thought provoking questions regarding the different applications of Time Series Analysis in the field of quantitative finance and social sciences.I also used the opportunity to visit Google’s unique Playa Vista office that is built inside the Spruce Goose Airplane Hangar. I highly recommend watching the Aviator to learn about Howard Hughes and his magnificent plane.Another highlight was seeing the highly anticipated Tesla Cybertruck in the “Inside Tesla” exhibit at Petersen Automotive museum in LA.Thank you to UCLA for this wonderful opportunity ❤️hashtag#datascience hashtag#learning hashtag#motivation
+
+",,93
+73,"
+
+
+ A while ago I had made a video about Ethical Issues with Generative AI. As a Data Science practitioner, I believe strongly about Responsible AI principles. I saw this video published by Forbes this morning talking Generative AI and how it would impact human lives. This is by far THE MOST DETAILED report presented on Generative AI. This video covers various ethical issues about Generative AI in terms of bias, misinformation, model hallucinations, privacy protection, and copyrighting. PS: Bill Gates' thoughts on Generative AI has been included in the video, especially around providing basic medical support in remote neighborhoods and providing educational support/ tutoring for lower income neighborhoods.Highly recommend to watch this: https://lnkd.in/gQMwCcMehashtag#datascience hashtag#ai hashtag#generativeai
+
+",,193
+74,"
+
+
+ This afternoon I was sitting and thinking of something that I wrote down to send to my graphic artist for him to create visuals/animation based on what I had written down. Force of habit of using the Bard and ChapGPT for the last few weeks, I started thinking- if it is possible to have a Generative AI that could take my text notes and output video.A little search and I found ""Make-A-Video"" a generative AI solution by Meta. I tried signing up for their product but the link was broken. A pretty interesting paper that is published by Meta. Wish I could try out the product. PS: If anyone has any reference on how I can get access to the product, please let me know.https://lnkd.in/gY-8DKGrhashtag#ai hashtag#video hashtag#artist hashtag#graphic hashtag#animation hashtag#generativeai 
+
+",,105
+75,"
+
+
+ Hmm, playing around with ChatGPT is very interesting. Here is a quirky way to hack ChatGPT to tell you the current date and time.PS: It prints out the date correctly, but the time doesn't seem to be PST. What do you think is happening here?hashtag#chatgptai hashtag#chatgpt hashtag#generativeai 
+
+",,"14,301"
+76,"
+
+
+ Found this resource to be very useful for people who got laid-off while on H1b
+
+",,"2,819"
+77,"
+
+
+ For anyone in my network impacted by layoff and on H-1B Visa. You may be able to extend from the 60 day rule to 1 year based on hardship. Link and details to USCIS below. PLEASE POST AND RESHARE TO YOUR NETWORKS FOR AWARENESS.Period of Authorized Stay - Compelling Circumstances Employment Authorization DocumentWorkers who are the beneficiary of an approved employment-based immigrant visa petition (Form I-140) may be eligible for a compelling circumstances EAD for up to one year if they:- do not have an immigrant visa available to them in the Department of State’s Visa Bulletin, and- face compelling circumstances.Note: A compelling circumstances EAD is a discretionary stopgap measure intended to assist certain individuals on the path to lawful permanent residence by preventing the need to abruptly leave the United States. Workers who begin working on a compelling circumstances EAD will no longer be maintaining nonimmigrant status but generally will be considered to be in a period of authorized stay and will not accrue unlawful presence in the United States while the EAD is valid. More information about eligibility requirements and the application process can be found on our Employment Authorization in Compelling Circumstances page.
+
+",,238
+78,"
+
+
+ As someone who is an immigrant, I empathize on the anxiousness and uncertainty one has to go through while being on H1B. I myself have felt the anxiousness of ""What if I get laid-off"" ?It can be emotionally draining if you are in this situation and is difficult to wear the practicality hat. In the past, few people had reached out to me for help and I have shared with them a list of resources I created that talks about various avenues that one can considered if you are in this unfortunate situation. I believe sharing this with the wider audience is important. Also, making a video instead of a document, so there is no scope of confusion in what I am sharing. Any of the tips that I have shared is after consulting a couple of lawyers and reading a bunch of USCIS resources. While this would be a good place to start but I would also encourage you to speak to your organization's lawyer to get more details and how you should pursue it.  Feel free to reach out to me if you have questions about these options. Happy to help :)Update: My last post caption came across as tone deaf to some people and I acknowledge their opinion, so I have changed the post to better reflect my intention to create the resource.https://lnkd.in/gQ6w8wSW hashtag#google hashtag#tech hashtag#help hashtag#layoffs 
+
+",,100
+79,"
+
+
+ As a Data Science practitioner, one thing that I have learnt is that just learning technical concepts and implementation isn't enough skills to be able to build solutions for organizations. You ask why? Because not all are technical, and those who are aren't the ones who are going to be making business decisions. Business Leads and Strategists are the ""users"" who are going to be using data science insights to reinforce their business decisions, and hence it is critical that applications cater to these users in an efficient manner. This is where Semantic Layer comes into play. A semantic layer can be thought of as a business representation of data. It offers the user a unified and consolidated view of data across an organization. Semantic layer lets you create a unified, consistent and singular view of data from different data definitions from different data sources, for analytics and other business purposes.If you are interested to learn more about Semantic Layer, join The 2nd annual Semantic Layer Summit! Registration is now open for this FREE one-day virtual event feat. 30+ Enterprise Data Leaders & Technologists. Register here: https://bit.ly/3WkbYobWhat to expect? You will get to learn about tools and best practices to deliver actionable insights in large organizations for data leaders, technologists, & industry experts.hashtag#business hashtag#datascience hashtag#learning hashtag#data hashtag#analytics 
+
+",,199
+80,"
+
+
+ Response will always be as smart as your question 😉Well, most of you who have used ChatGPT in any capacity will understand this.Since large language models gained popularity with the data science community, prompt engineering has been one of the major areas of research. You may ask what is prompt engineering? In the simplest of definitions, prompt engineering is the art of curating set of statements/questions for which is used to get best quality output from a machine learning model.Why is this important? 🤔With Generative AI systems being integrated in real-world applications, it is critical to know not just ""how to use them"" but also ""what can they do"". You might have recently seen people sharing examples of how ChatGPT can be used for getting essays written, or performance review, or getting career tips; but there is a whole lot of usecases that can be achieved using a Generative AI system like ChatGPT. The dataset it has been trained on is humongous and covers a wide breath of subject matter expertise. I am working on a really interesting application using ChatGPT and will be announcing it soon 😉There are some amazing prizes to be given out! Are you excited? What do you think it is going to be ? Put your guesss in the comments below 👇  hashtag#engineering hashtag#ai hashtag#machinelearning hashtag#datascience
+
+",,"2,150"
+81,"
+
+
+ The best practice of moving from Model Centric AI to Data Centric AI was based on the importance to understand, validate, and process the data in a standard and informed manner. In Model Centric AI practice, the focus was on how to build better algorithms that can fit your data best and also generalize. BUT, the major assumption behind this was that the data is already in a ""good"" state.This assumption proved out to be not true for almost all cases. With the Data Centric AI approach we build pipelines that performs data documentation, data quality assessment, data preprocessing for bad data quality, data validation, train-test split validation as part of the ""Data Pipeline"". This follows the model validation and model monitoring in the model pipeline. In the next few posts I will be digging deeper into different modules of Data Centric AI pipeline and sharing some tools and examples on how to build a Data Centric AI pipeline.In the meantime, here is something I would highly recommend you to watch : https://lnkd.in/gMZiYkYWStay tuned! hashtag#ai hashtag#algorithms hashtag#data hashtag#datacentricai 
+
+",,728
+82,"
+
+
+ Here is a really cool article goin over geospatial analysis, I recommend checking it out. hashtag#ml hashtag#datascience https://lnkd.in/evcdRarC
+
+",,471
+83,"
+
+
+ Thank you Women in AI for this amazing opportunity to deliver a keynote at the AI Summit. It was wonderful meeting new folks from the community and reconnect with old friends 💙
+
+",,
+84,"
+
+
+ It’s a wrap of Women in AI Flagship Summit at The AI Summit New York! 🚀🗽The room was jam-packed and full of energetic vibes and inspiring discussions with young and veteran AI leaders with eminent speakers flying down from different parts of the globe! 🌎We had special guests from UNDP, World Economic Forum, OpenAI, and many others. The day was filled with many lessons and takeaways from phenomenal thought leaders in the AI space:✨Starting with a Welcome Breakfast Roundtable with Shell: Leaders In AI Success hosted by Anu Krishnan, the attendees were able to ask and discuss about how to empower women in their careers and in leadership positions.✨Guiding us through the day were two phenomenal energetic Masters of Ceremonies Kay Firth-Butterfield from World Economic Forum and Bhagi Agrawal. We had 5 Keynotes about:➡️ Diversity & Inclusion and the state of AI leadership presented by Dr. Alessandra Sala where she discussed the importance of increasing women representation in leadership roles.➡️The talk was followed by an introduction on The good AI by Caroline Lair which focused on how to build a collaborative ecosystem of AI solutions and expertise to help companies make business sustainable.➡️ Elizabeth M. Adams also presented about How Women Are Changing the World and the importance of building communities with purpose.➡️ Angela Kim shared her insights on Responsible & Explainable AI and the use of ESG scoring.➡️ Lastly, Aishwarya Srinivasan talked about Building responsible AI systems for organizations.✨ Right after lunch, we had a Fireside Chat followed by Lunch & Networking Roundtable with ServiceNow on how to build Building Diverse teams and Collaborative Culture for the Responsible Development of AI for Everybody with Bhuva S., Dorit Levy-Zilbershot and Valérie Bécaert.✨We had two highlight panels discussing important topics:➡️ One on Innovation with Diversity and Inclusion with Frincy Clement, Hoda A.Alkhzaimi, Angela Kim and Sameh BEN FREDJ, PhD where it was discussed main measures to implement diversity and inclusion in companies and how to measure the impact on innovation.➡️ Another about Ethics and culture in the AI field with Silvia A. Carretta, Bhuva S. , Erin Young and Bhagi Agrawal where it was discussed how to implement AI ethics at high standards at organizations and ensure to have the right culture!🎉The event was capped with the Women in AI Awards ceremony which awarded all women for their great work and contributions to empower women in AI.🙏Huge thanks to Shell and ServiceNow for sponsoring the event and making this possible ! Big thanks to Informa Tech for facilitating the logistics. 🙌 Big thanks to Kate Harden-England and Debbie Botha, for organizing and providing a great platform. hashtag#AISummit hashtag#AISummitNYC hashtag#womeninai 🚀🚀🚀
+
+",,
+85,"
+
+
+ One of the profound challenges of building a robust model pipeline and a data pipeline is to continuously monitor the models in production and the incoming data. Trends change, patterns change, seasonality changes, user behavior changes, and all of this can impact how your model performs in production, which in-turn will cause business disruptions.I believe having model monitoring as part of your MLOps workflow is critical to really have a robust pipeline that is integrated with multiple downstream applications. I have invited Wani Sharma, Senior Product Manager at Wallaroo.AI to share more insights about model monitoring and drift.Sign up for FREE Community Edition here: https://lnkd.in/gdX5U6KQIn part 1 of the video, we talk about why is model monitoring important, and how it fits in the MLOps pipeline. Watch Part 1: https://lnkd.in/dfwePw8HIn part 2 of the video, we will be talking about some business use-cases for using model monitoring and how it impacts the business. In the next part you will also see me using Wallaroo.ai's Community Edition tool for model monitoring called ""Assay"" which is absolutely FREE for any data scientist to use!Watch Part 2: https://lnkd.in/duNQ3vJFIn the comments below, don't forget to share your thoughts 💙hashtag#datascience hashtag#ml hashtag#mlops 
+
+",,
+86,"
+
+
+ Do you know how ChatGPT was trained? ChatGPT is ""simply"" a fined-tuned GPT-3 model with a surprisingly small amount of data! Moreover, ChatGPT is using 1.3B parameters where GPT-3 uses 175B parameters! It is first fine-tuned with supervised learning and then further fine-tuned with reinforcement learning. They hired 40 human labelers to generate the training data. Let's dig into it!- First, they started by a pre-trained GPT-3 model trained on a broad distribution of Internet data (https://lnkd.in/gAUtxvrM). Then sampled typical human prompts used for GPT collected from the OpenAI website and asked labelers and customers to write down the correct output. They fine-tuned the model with 12,725 labeled data. - Then, they sampled human prompts and generated multiple outputs from the model for each of the prompt. A labeler is then asked to rank those outputs. The resulting data is used to train a Reward model (https://lnkd.in/gdrzdWu3) with 33,207 prompts and ~10 times more training samples using different combination of the ranked outputs.- We then sample more human prompts and they are used to fine-tuned the supervised fine-tuned model with Proximal Policy Optimization algorithm (PPO), a Reinforcement Learning algorithm (https://lnkd.in/gsDTWtga). The prompt is fed to the PPO model, the Reward model generates a reward value, and the PPO model is iteratively fine-tuned using the rewards and the prompts using 31,144 prompts data.This process is fully described in here: https://lnkd.in/gnt9K9pu. The paper actually details a model called InstructGPT which is described by OpenAI as a ""sibling model"" to ChatGPT, so the numbers shown above may be slightly different from the exact ones used  for ChatGPT.---I offer Machine Learning consulting services: https://lnkd.in/gqzuB6kMI offer Data Science career mentoring: https://lnkd.in/gGBMXuR4 I am starting writing on Twitter as well now. Follow me there for additional news: https://lnkd.in/gDP_jWjShashtag#machinelearning hashtag#datascience hashtag#chatgpt 
+
+",,
+87,"
+
+
+ The red-eye was totally worth it for Day 1 of AI Summit. Met Kate Strachnyi, Ben Taylor for the first time in-person. Had a retreat with my previous bosses John Thomas, Priya Krishnan. Kudos on the AI Governance talk. Got to meet Seth Dobrin, PhD, following up our chat on Responsible AI, from when we met in Dubai a few months ago. Always a delight to meet and connect with new folks at such conferences. Looking forward to day 2, and excited for my keynote today 😄hashtag#conference hashtag#ai hashtag#ml hashtag#responsibleai hashtag#networking 
+
+",,
+88,"
+
+
+ Read!!!
+
+",,
+89,"
+
+
+ Yes, ChatGPT is very powerful, revolutionary even, but let's calm down...Our jobs aren't gone just yet...✅What happened?Following the launch of ChatGPT, OpenAI's conversational bot.  Posts announcing the obsolescence of content creators, SEOs, and developers invaded Twitter and LinkedIn feeds.But these people forget that Google exists... Two days ago, Google rolled out its HCU ( google helpful content update ) Globally.✅What is the purpose of this update? It will help Google's systems to detect low-quality content created for search engines and not for people.In the same vein Duy Nguyen, who works at Google said in a conference five days ago:  𝑮𝒐𝒐𝒈𝒍𝒆 𝒉𝒂𝒔 ""𝒂𝒍𝒈𝒐𝒓𝒊𝒕𝒉𝒎𝒔 𝒕𝒐 𝒈𝒐 𝒂𝒇𝒕𝒆𝒓"" 𝒕𝒉𝒐𝒔𝒆 𝒘𝒉𝒐 𝒑𝒐𝒔𝒕 𝑨𝑰 𝒑𝒍𝒂𝒈𝒊𝒂𝒓𝒊𝒛𝒆𝒅 𝒄𝒐𝒏𝒕𝒆𝒏𝒕, 𝒕𝒉𝒆𝒏 𝒕𝒉𝒆 𝒂𝒍𝒈𝒐𝒓𝒊𝒕𝒉𝒎𝒔 𝒄𝒂𝒏 ""𝒅𝒆𝒎𝒐𝒕𝒆 𝒔𝒊𝒕𝒆 𝒔𝒄𝒓𝒂𝒑𝒊𝒏𝒈 𝒄𝒐𝒏𝒕𝒆𝒏𝒕 𝒇𝒓𝒐𝒎 𝒐𝒕𝒉𝒆𝒓 𝒔𝒊𝒕𝒆𝒔.""💡Beware, Google is not the only one. Stack Overflow, the devs' platform banned code generated by artificial intelligence because it contained errors and misled people. Same with Getty Images, that said AI-generated images pose legal challenges.✅Morality of the post? ChatGPT ( and other AIs) will revolutionize our lives but we are not obsolete; at least not yet :) So what is ChatGPD useful for? Cassie Kozyrkov, chief decision scientist at Google has an excellent post; Check it out here:https://t.ly/o-od Want to know more about the helpful content update? You can find the articles in the comments.hashtag#searchengines hashtag#google hashtag#chatGPT hashtag#openai hashtag#ai hashtag#artificialintelligence 
+
+",,
+90,"
+
+
+ Don't forget to signup for Google's Women in ML Symposium 🚀The Women in ML Symposium is an inclusive event for people to learn how to get started in machine learning and find a community of practitioners in the field. Last year, we highlighted career growth, finding community, and we also heard from leaders in the ML space. This year, we’ll focus on coming together to learn the latest machine learning tools and techniques, get the scoop on the newest ML products from Google, and learn directly from several amazing women in ML. Sign up here: https://lnkd.in/enr88baYSpeaker highlights: Laurence Moroney, Carolyn Ujcic, Alana Karenhashtag#ml hashtag#google hashtag#machinelearning hashtag#community hashtag#people hashtag#growth hashtag#event hashtag#leaders hashtag#career 
+
+",,
+91,"
+
+
+ The wait is over. The full interview with Saumer is here!I recently read a blog explaining various advancements announced by Intel in their Innovation conference and was pretty fascinated by what they were building, especially their market in India. To learn more, I invited Saumer Phukan Director of Sales - India Key Accounts, to share his views on this. In this interview Saumer shares his views on how technology has changed in the last two decades, and how Intel is planning to grow in India in the technology space.Intel is having their next Innovation On Conference in Mumbai on 1st and 2nd December 2022. Check it out here: https://lnkd.in/gY4Vibrj  Overall, it was a great experience talking with a senior leader to understand their vision and strategies for the growth of a major organization like Intel. For more on this topic, please check out the full video on my youtube channel https://lnkd.in/g5WdTudM Intel Corporation hashtag#innovation hashtag#technology hashtag#sales hashtag#experience hashtag#ad hashtag#share hashtag#growth hashtag#india hashtag#video hashtag#interview hashtag#building hashtag#leader hashtag#planning 
+
+",,
+92,"
+
+
+ Such an important example to show data leakage!!
+
+",,
+93,"
+
+
+ Love this thread.Even the best of us make what seem like obvious data science / machine learning mistakes.Credits: Santiago Valdarrama  hashtag#datascience hashtag#machinelearning 
+
+",,
+94,"
+
+
+ As I wrap up my final week of the LinkedIn Creator Accelerator Program, I wanted to share my thoughts and tips on what one can do if you get laid-off while being on H1B.Getting laid-off can be very stressful, especially is you are on a work visa (H1B) in the US. Based on my research, I have put together some actionable steps that will help you find a new job in the next 60 days of getting laid-off. Tech industry at this point in time is turbulent and you need to be very strategic about how you find your next job.If you are someone who is worried that your company will laying-off soon, this will be helpful for you as well.Please share this video widely as this might help someone who is seeking help and advice. Let us all be supportive to the immigrant community in the US and help move past this difficult situation.https://lnkd.in/gQ6w8wSW hashtag#work hashtag#community hashtag#linkedin hashtag#job hashtag#tech hashtag#share hashtag#research hashtag#help hashtag#licreatoraccelerator
+
+",,
+95,"
+
+
+ I have seen a lot of people making these mistakes and thought of explicitly putting this information out there for you.1) Being a wanna-be: Big NO NO for putting names of companies where you don't work on your headline. I have seen a lot of people working on a technology like Google Cloud, AWS or Azure in a consulting company and adding ""Google Cloud"", ""AWS"" or ""Azure"" on their headline. Remember your headline is to mention your affiliation/ achievements/ field of expertise(like machine learning, NLP, reinforcement learning etc), not tools. By putting random brand names, you are likely to be judged as a wanna-be by the recruiters/hiring managers or people viewing your profile in general.2) Cold-emailing: Don't email/message people without introducing yourself and giving them context. Don't directly ask for a favor or referral in the very first message. Try to establish a good communication and maybe have an informational interview with them initially. Always start with a brief introduction, why you are contacting them, and what are you expecting.3) Politically incorrect things: Don't write a post or comment about politically incorrect things or personal attacking someone. I have seen in multiple instances where people make derogatory remarks on someone's post or make statements that can be a personal attack on a person or a community. Having an inclusive and unbiased mindset is really important to grow in your professional life. These qualities are what makes a strong leader, not just their field of expertise. hashtag#cloud hashtag#hiring hashtag#machinelearning hashtag#technology hashtag#work hashtag#community hashtag#people hashtag#learning hashtag#communication hashtag#brand hashtag#like hashtag#mindset hashtag#nlp hashtag#interview hashtag#consulting hashtag#leader hashtag#email hashtag#recruiters hashtag#licreatoraccelerator
+
+",,
